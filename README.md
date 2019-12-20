@@ -18,6 +18,16 @@
 #### Viscosity 0
 ![Viscosity 0](https://user-images.githubusercontent.com/16706911/71244167-27ffe580-2327-11ea-8f38-d97a0c8e8861.gif)
 
+### Viscosity 5
+![Viscosity 5](https://user-images.githubusercontent.com/16706911/71248991-7a460400-2331-11ea-87f1-eab082df67d7.gif)
+
+
+#### Viscosity 10
+![Viscosity 10](https://user-images.githubusercontent.com/16706911/71248778-f724ae00-2330-11ea-8d7e-f97704bdef77.gif)
+
+
+#### Viscosity 25
+![Viscosity 25](https://user-images.githubusercontent.com/16706911/71248558-5cc46a80-2330-11ea-8991-565cbbbb4563.gif)
 
 #### Viscosity 50
 ![Viscosity 50](https://user-images.githubusercontent.com/16706911/71243336-64324680-2325-11ea-88b8-93ba1451263c.gif)
