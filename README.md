@@ -37,11 +37,15 @@
 
 # How It works?
 
+## Create a smoke
+
 > [Volumes](https://www.sidefx.com/docs/houdini/model/volumes.html) allow you to store values for "voxels" (three dimensional pixels) in a space. This allows you to represent phenomena such as clouds, smoke, fire
 
 first we should create a smoke
 
 ![Smoke](https://user-images.githubusercontent.com/16706911/71245189-6e564400-2329-11ea-912b-c09bbb964235.gif)
+
+## Convert VDB
 
 Convert VDB geometry node. This node converts sparse volumes, or VDBs, into other types. It provides some extra options not available through the Convert SOP. This also allows the conversion of volumes into VDBs.
 
@@ -49,6 +53,11 @@ Convert VDB geometry node. This node converts sparse volumes, or VDBs, into othe
 
 
 ![Convert VDB](https://user-images.githubusercontent.com/16706911/71245850-d9ece100-232a-11ea-8fab-176f93a7bee8.gif)
+
+## Toon Shading
+
+![Toon Shading](https://user-images.githubusercontent.com/16706911/71246809-b165e680-232c-11ea-9e08-762d73a6627a.gif)
+
 
 
 
