@@ -56,7 +56,7 @@ Convert VDB geometry node. This node converts sparse volumes, or VDBs, into othe
 
 ## Toon Shading
 
-![Toon Shading](https://user-images.githubusercontent.com/16706911/71246809-b165e680-232c-11ea-9e08-762d73a6627a.gif)
+![Toon Shading](https://user-images.githubusercontent.com/16706911/71247711-8b414600-232e-11ea-8813-dc42680266e2.gif)
 
 
 
