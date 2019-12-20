@@ -47,7 +47,7 @@
 
 # How It works?
 
-## Create a smoke
+## Creating Smoke
 
 > [Volumes](https://www.sidefx.com/docs/houdini/model/volumes.html) allow you to store values for "voxels" (three dimensional pixels) in a space. This allows you to represent phenomena such as clouds, smoke, fire
 
