@@ -45,9 +45,11 @@ first we should create a smoke
 
 Convert VDB geometry node. This node converts sparse volumes, or VDBs, into other types. It provides some extra options not available through the Convert SOP. This also allows the conversion of volumes into VDBs.
 
+![Convert VDB Nodes](https://user-images.githubusercontent.com/16706911/71246106-51227500-232b-11ea-8e89-e2e24138f833.png)
+
+
 ![Convert VDB](https://user-images.githubusercontent.com/16706911/71245850-d9ece100-232a-11ea-8fab-176f93a7bee8.gif)
 
-![image](https://user-images.githubusercontent.com/16706911/71245992-1e787c80-232b-11ea-9de8-94357d95bc60.png)
 
 
 
