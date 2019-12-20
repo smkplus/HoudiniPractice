@@ -25,9 +25,6 @@
 #### Viscosity 100
 ![Viscosity 100](https://user-images.githubusercontent.com/16706911/71243516-bffccf80-2325-11ea-9c56-dec7c2f43397.gif)
 
-#### Viscosity 200
-![Viscosity 200](https://user-images.githubusercontent.com/16706911/71239519-fb929c00-231b-11ea-8cbc-428643b1d8d7.gif)
-
 
 ## Toon Explosion 1:
 
